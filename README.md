@@ -6,7 +6,10 @@
 然后 点击 
 ![](.doc/CREATE.png)
 
-之后，输入标题和内容，如
+并选择议题的类型（不存在的话就点击 `Open a blank issues`)
+![](.doc/CHOOSE.png)
+
+之后，输入标题并填写内容，如
 ![](.doc/CONTENT.png)
 > 其中图片可以直接粘贴到内容，会自动上传并填入。
 
